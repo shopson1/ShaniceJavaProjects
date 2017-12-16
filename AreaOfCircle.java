@@ -1,5 +1,5 @@
 /* Calculate the area of a circle
-Hopson, Shanice
+Hopson, S.
 */
 
     public class AreaOfCircle
